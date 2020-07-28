@@ -32,7 +32,7 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
-remote_theme: thelehhman/texture
+# remote_theme: thelehhman/texture
 
 # Exclude from processing.
 # The following items will not be processed, by default.
