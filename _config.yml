@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Iñigo Hidalgo Rey"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Aspiring Data Scientist."
   links:
     - label: "Website"

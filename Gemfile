@@ -6,6 +6,8 @@ gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "activesupport", ">= 4.1.11"
 gem "tzinfo", "~> 1.1"
+gem "kramdown", ">= 2.3.1"
+gem "webrick"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
