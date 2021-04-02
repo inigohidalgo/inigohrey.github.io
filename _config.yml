@@ -62,6 +62,7 @@ plugins:
   - jekyll-include-cache
 
 logo: "/assets/images/default.png"
+teaser: "/assets/images/code_splash.jpeg"
 author:
   name   : "Iñigo Hidalgo"
   avatar : "/assets/images/bio-photo.jpeg"
