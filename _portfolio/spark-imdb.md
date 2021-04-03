@@ -1,6 +1,8 @@
 ---
 title: "Spark IMDb Analysis"
 excerpt: "This is an analysis of the IMDb Datasets using the Python Spark API."
+header:
+    teaser: "/assets/images/denise-jans-Lq6rcifGjOU-unsplash.jpg"
 ---
 
 
