@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Iñigo Hidalgo
+# subtitle: Personal Website
 title_separator: "|"
 email: inigohrey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -68,9 +69,9 @@ author:
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Aspiring Data Scientist."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://inigohidalgo.me"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://inigohidalgo.me"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
@@ -86,9 +87,13 @@ footer:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/inigohidalgo"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/inigohidalgo"
+
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -103,7 +108,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -119,7 +124,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
 category_archive:
   type: liquid
   path: /categories/
