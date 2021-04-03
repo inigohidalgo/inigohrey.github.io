@@ -2,6 +2,8 @@
 permalink: /cv/
 title: "CV"
 ---
+You can find a pdf version of my CV [here][1].
+
 
 ## Education
 
@@ -41,3 +43,5 @@ title: "CV"
 
 **Global Transaction Banking Summer Intern**  
 *Jun 2015---Aug 2015*
+
+[1]:{{ site.url }}/downloads/Inigo_Hidalgo_CV_Online.pdf
