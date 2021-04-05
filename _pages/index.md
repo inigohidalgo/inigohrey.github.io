@@ -1,5 +1,5 @@
 ---
-title: "Iñigo Hidalgo"
+title: "Iñigo Hidalgo Rey"
 permalink: /
 layout: splash
 excerpt: 'I am an aspiring data scientist with a professional and academic background in Finance. This is my personal website where you can find my CV and some interesting projects I have carried out in my journey to become a data scientist.'
