@@ -5,6 +5,8 @@ header:
     teaser: "/assets/images/denise-jans-Lq6rcifGjOU-unsplash.jpg"
     overlay_image: "/assets/images/denise-jans-Lq6rcifGjOU-unsplash.jpg"
     caption: 'Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denise Jans</a> on <a href="https://unsplash.com/s/photos/movie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+    overlay_color: "#000"
+    overlay_filter: "0.5"
 categories:
     - Project
 tags:
