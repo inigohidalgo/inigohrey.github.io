@@ -63,19 +63,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-logo: "/assets/images/default.png"
+logo: "/assets/images/logo88x88.png"
 teaser: "/assets/images/code_splash.jpeg"
 author:
-  name   : "Iñigo Hidalgo"
+  name   : "Iñigo Hidalgo Rey"
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Aspiring Data Scientist."
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://inigohidalgo.me"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/inigohidalgo"
@@ -85,19 +79,12 @@ author:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/inigohidalgo"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/inigohidalgo"
-
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
