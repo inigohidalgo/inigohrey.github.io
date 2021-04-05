@@ -2,6 +2,7 @@
 permalink: /cv/
 title: "CV"
 toc: true
+toc_sticky: true
 ---
 You can find a pdf version of my CV [here][1].
 
